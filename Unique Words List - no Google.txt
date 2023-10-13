@@ -4655,6 +4655,7 @@ ahead
 ahead 
 aheap
 ahed
+ahegao
 aheight
 ahem
 ahemeral
@@ -17673,6 +17674,7 @@ bajri
 bajris
 baju
 bajus
+baka
 bake
 bake 
 bakeapple
@@ -21394,6 +21396,7 @@ benefit
 benefit from
 benefit from sth
 bent
+bento
 berry
 beside
 beside 
@@ -21492,6 +21495,7 @@ boil
 boil 
 boiler 
 boiling 
+bokeh
 bold
 bomb
 bomb 
@@ -21499,8 +21503,10 @@ bombing
 bond
 bone
 bone 
+bonsai
 bonus
 bonus 
+bonze
 book
 book 
 booking
@@ -21638,12 +21644,14 @@ builder
 building
 building 
 built
+bukkake
 bulk
 bullet
 bump
 bump 
 bunch
 bunch 
+bunraku
 burden
 bureaucracy
 burial
@@ -22691,8 +22699,10 @@ dad
 dad 
 daddy 
 daft 
+daikon
 daily
 daily 
+daimyō
 dairy
 dam
 damage
@@ -22713,6 +22723,7 @@ dark
 darkness
 darkness 
 darling 
+dashi
 data
 data 
 data on
@@ -23136,6 +23147,7 @@ does not appear to be
 doesn’t
 dog
 dog 
+dojo
 dollar
 dollar 
 Dolls'
@@ -23148,6 +23160,7 @@ dominant
 dominant 
 dominate
 dominate 
+domoic acid
 don’t
 donate
 donation
@@ -23289,6 +23302,7 @@ economist
 economy
 economy 
 ecosystem
+edamame
 edge
 edge 
 edit
@@ -23387,6 +23401,7 @@ emergency
 emergency 
 emission
 Emma
+emoji
 emotion
 emotion 
 emotional
@@ -23467,6 +23482,8 @@ enjoy
 enjoy oneself
 enjoyable
 enjoyable 
+enoki
+enokitake
 enormous
 enormous 
 enough
@@ -24197,6 +24214,7 @@ fry
 fry 
 fuel
 fuel 
+fugu
 fulfil
 fulfill
 full
@@ -24228,8 +24246,10 @@ further
 further 
 furthermore
 fuss 
+futon
 future
 future 
+gaijin
 gain
 gain 
 gallery
@@ -24266,6 +24286,7 @@ gay
 gaze
 gear
 gear 
+geisha
 gender
 gene
 gene 
@@ -24286,6 +24307,7 @@ genetic
 genius
 genocide
 genre
+genro
 gentle
 gentle 
 gentleman
@@ -24328,6 +24350,7 @@ get up
 get used to
 get used to sth
 Get well soon!
+geta
 getup
 ghost
 giant
@@ -24335,6 +24358,7 @@ giant
 gift
 gift 
 gig
+ginkgo
 girl
 girl 
 girlfriend
@@ -24561,11 +24585,13 @@ guy
 guy 
 gym
 gymnastics
+gyoza
 habit
 habit 
 habitat
 had
 had better
+haiku
 hail
 hair
 hair 
@@ -24719,6 +24745,7 @@ helpful
 helpful 
 hence
 hence 
+hentai
 her
 her 
 herb
@@ -24740,6 +24767,7 @@ hesitate
 hey
 hi
 hi  
+hibachi
 hidden
 hide
 hide 
@@ -24759,6 +24787,8 @@ highly
 high-profile
 highway
 highway 
+hijiki
+hikikomori
 hiking
 hilarious
 hill
@@ -24805,6 +24835,7 @@ homeless
 homestay
 homework
 homework 
+honcho
 honest
 honest 
 honestly 
@@ -24971,6 +25002,7 @@ if you/we look at
 ignorance
 ignore
 ignore 
+ikebana
 ill
 ill 
 illegal
@@ -24993,6 +25025,7 @@ imagination
 imagination 
 imagine
 imagine 
+imari
 immediate
 immediate 
 immediately
@@ -25328,6 +25361,7 @@ input
 inquire
 inquiry
 inquiry 
+inro
 insect
 insect 
 insert
@@ -25599,8 +25633,10 @@ judgement
 judgment
 judgment 
 judicial
+judo
 juice
 juice 
+jujutsu
 July
 jump
 jump 
@@ -25625,11 +25661,29 @@ justify
 justify 
 Justin
 Justin Thyme
+kabuki
+kaiju
+kaizen
+kakemono
+kakiemon
 Kamchatka
+kamikaze
+kanban
+karaoke
+karate
+karoshi
+katana
+katsu
+katsuo
+katsuobushi
+katsura
+kawaii
 keen
 keen 
 keep
 keep 
+keiretsu
+kendo
 Kenya
 kept
 kettle 
@@ -25649,6 +25703,7 @@ killing
 kilometer
 kilometre
 kilometre 
+kimono
 kind
 kind 
 kind of
@@ -25659,6 +25714,7 @@ kinds of
 king
 king 
 kingdom
+kirigami
 kiss
 kiss 
 kit
@@ -25683,6 +25739,13 @@ knowledge
 known
 known 
 koala
+koan
+koi
+koji
+kokoro
+kombu
+koto
+kudzu
 lab
 lab 
 label
@@ -26089,6 +26152,7 @@ make sure
 make up
 makeup
 make-up
+makimono
 making
 Malay
 male
@@ -26107,6 +26171,7 @@ manager
 manager 
 mandate
 mandatory
+manga
 mango
 manifest
 manipulate
@@ -26170,6 +26235,7 @@ mathematical
 mathematics
 maths
 maths 
+matsutake
 matter
 matter 
 mature
@@ -26293,6 +26359,7 @@ might
 might 
 migrate
 migration
+mikado
 Mike
 mild
 mile
@@ -26334,12 +26401,14 @@ minority
 minute
 minute 
 miracle
+mirin
 mirror
 mirror 
 miserable
 misery
 misery 
 misleading
+miso
 miss
 miss 
 missile
@@ -26356,6 +26425,7 @@ mixed
 mixed 
 mixture
 mixture 
+mizuna
 mob
 mobile
 mobile 
@@ -26363,6 +26433,7 @@ mobile phone
 mobile phone 
 mobility
 mobilize
+mochi
 mode
 mode 
 model
@@ -26454,6 +26525,8 @@ movement
 movie
 movie 
 moving
+moxa
+moxibustion
 Mr.
 Mrs.
 Ms.
@@ -26504,10 +26577,12 @@ name
 name 
 name after
 namely
+napa cabbage
 Naples
 narrative
 narrow
 narrow 
+nashi
 nasty
 nasty 
 nation
@@ -26517,6 +26592,7 @@ national
 nationwide
 native
 native 
+natto
 natural
 natural 
 natural gas
@@ -26574,6 +26650,7 @@ nest
 net
 net 
 netball
+netsuke
 network
 network 
 neutral
@@ -26613,6 +26690,7 @@ nine
 nineteen
 nineteenth
 ninety
+ninja
 ninth
 no
 no 
@@ -26633,6 +26711,7 @@ nobody
 nobody 
 nod
 nod 
+noh
 noise
 noise 
 noisy
@@ -26654,6 +26733,7 @@ noon
 nope 
 nor
 nor 
+nori
 norm
 normal
 normal 
@@ -26724,6 +26804,7 @@ o’clock
 o’clock 
 obesity
 obey
+obi
 object
 object 
 objection
@@ -26949,6 +27030,7 @@ organized
 organizer
 orient
 orientation
+origami
 origin
 origin 
 original
@@ -26956,6 +27038,7 @@ original
 originally
 originally 
 originate
+otaku
 other
 other 
 other than
@@ -27068,6 +27151,7 @@ panel
 panel 
 panic
 panic 
+panko
 pants
 pants 
 paper
@@ -27386,6 +27470,7 @@ point out
 pointed
 poison
 poisonous
+Poka-yoke
 polar
 polar bear
 pole
@@ -27876,6 +27961,7 @@ raise
 raise 
 raise money
 rally
+ramen
 ramp
 ran
 random
@@ -28297,6 +28383,7 @@ rice
 rice ball
 rich
 rich 
+rickshaw
 rid
 rid 
 ride
@@ -28440,11 +28527,13 @@ same
 sample
 sample 
 sampling
+samurai
 sanction
 sand
 sand 
 sandwich
 sandwich 
+sashimi
 satellite
 satellite 
 satisfaction
@@ -28453,6 +28542,8 @@ satisfied
 satisfied 
 satisfy
 satisfy 
+satori
+satsuma
 Saturday
 sauce
 sauce 
@@ -28467,6 +28558,7 @@ saw
 say
 say 
 Say cheese!
+sayonara
 scale
 scale 
 scan
@@ -28590,9 +28682,12 @@ send
 send 
 senior
 senior 
+senpai
+senryu
 sensation
 sense
 sense 
+sensei
 sensible
 sensible 
 sensitive
@@ -28659,6 +28754,7 @@ sexual
 sexual 
 sexuality
 sexy
+shabu shabu
 shade
 shadow
 shadow 
@@ -28671,6 +28767,7 @@ Shall I
 shallow
 shame
 shame 
+shamisen
 shape
 shape 
 shaped
@@ -28700,10 +28797,15 @@ shell
 shell 
 shelter
 shelter 
+shiatsu
+shiba inu
 shift
 shift 
+shiitake
 shine
 shine 
+shinro
+shinto
 shiny
 ship
 ship 
@@ -28719,6 +28821,7 @@ shocking
 shocking 
 shoe
 shoe 
+shogun
 shoot
 shoot 
 shooting
@@ -28750,6 +28853,7 @@ show
 show(s) that
 shower
 shower 
+shoyu
 shrine
 shrink
 shrug
@@ -28852,6 +28956,7 @@ skin
 skip
 skirt
 skirt 
+skosh
 skull
 sky
 sky 
@@ -28924,6 +29029,7 @@ soak
 soap
 soap 
 soar
+soba
 so-called
 so-called 
 soccer
@@ -29025,6 +29131,7 @@ South Africa
 southern
 southern 
 sovereignty
+soy
 space
 space 
 spaghetti
@@ -29359,6 +29466,7 @@ sudden
 sudden 
 suddenly
 suddenly 
+sudoku
 sue
 suffer
 suffer 
@@ -29380,14 +29488,17 @@ suit
 suitable
 suitable 
 suite
+sukiyaki
 sum
 sum 
 sum up
+sumi-e
 summarize
 summary
 summer
 summer 
 summit
+sumo
 sun
 sun 
 Sunday
@@ -29433,6 +29544,7 @@ surgeon
 surgery
 surgery 
 surgical
+surimi
 surplus
 surprise
 surprise 
@@ -29455,6 +29567,7 @@ survival
 survive
 survive 
 survivor
+sushi
 suspect
 suspect 
 suspend
@@ -29536,6 +29649,7 @@ take sth/sb on
 take up
 take up sth
 taken
+takoyaki
 tale
 tale 
 talent
@@ -29547,9 +29661,13 @@ talk about
 talk about sb/sth
 tall
 tall 
+tamari
 Tamil
 tank
 tank 
+tanka
+tankōbon
+tanuki
 tap
 tap 
 tape
@@ -29606,6 +29724,7 @@ temporarily
 temporary
 temporary 
 tempt
+tempura
 ten
 tenant
 tend
@@ -29620,12 +29739,15 @@ tendency
 tender
 tennis
 tennis 
+tenno
 tension
 tension 
 tent
 tent 
 tenth
 tenure
+teppanyaki
+teriyaki
 term
 term 
 terminal
@@ -29991,6 +30113,7 @@ today
 today 
 toe
 toe 
+tofu
 together
 together 
 together with
@@ -30028,6 +30151,7 @@ top
 top 
 topic
 topic 
+torii
 torture
 toss
 total
@@ -30177,6 +30301,7 @@ try and…
 try to
 T-shirt
 tsunami
+tsuresari
 Tube
 tube 
 Tuesday
@@ -30213,6 +30338,7 @@ twin
 twist
 twist 
 two
+tycoon
 type
 type 
 types of
@@ -30224,14 +30350,19 @@ tyre
 tyre 
 U.K.
 U.S.
+udo
+udon
 ugly
 ugly 
 UK
+ukiyo-e
 ultimate
 ultimate 
 ultimately
 ultimately 
+umami
 umbrella
+umeboshi
 umm
 unable
 unable 
@@ -30351,6 +30482,7 @@ urge
 urge 
 urgent
 urgent 
+urushiol
 us
 us 
 usage
@@ -30491,6 +30623,7 @@ vow
 vulnerability
 vulnerable
 vulnerable 
+wabi-sabi
 wage
 wage 
 wait
@@ -30498,6 +30631,8 @@ wait
 wait for
 wait for sb/sth
 waiter
+waka
+wakame
 wake
 wake 
 wake up
@@ -30529,6 +30664,7 @@ warning
 warrant
 warrior
 was
+wasabi
 wash
 wash 
 washing
@@ -30864,6 +31000,7 @@ x times a…
 x years ago
 x years later
 x years old
+yakitori
 yard
 yard 
 yeah
@@ -30915,7 +31052,11 @@ yourself
 yourself 
 youth
 youth 
+yukata
+zaibatsu
+zen
 zero
 zone
 zoo
 zookeeper
+zori
