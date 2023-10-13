@@ -10,6 +10,6 @@ This is a list of words for word game applications using these word lists:
    
 4. Words in English originating from Japanese (from [Wikipedia](https://en.wikipedia.org/wiki/List_of_English_words_of_Japanese_origin) under a CC-BY-SA 4.0 license). 
 
-Be aware that the Google Search Word List contains spelling errors and as such, there are two versions of the list, one with and one without the Google data.
+Be aware that the Google Search Word List contains spelling errors and as such, there are two versions of the list, one with and one without the Google data. There is also a version without Japanese and without Google words.
 
 
